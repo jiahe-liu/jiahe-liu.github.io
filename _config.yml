@@ -20,7 +20,7 @@ repository               : "jiahe-liu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "aPhotoOfMe.png"
+  avatar           : "https://jiahe-liu.github.io/images/aPhotoOfMe.png"
   name             : "Jiahe Liu"
   pronouns         : # example: "she/her"  
   bio              : "CS PhD student at China University of Petroleum, Beijing"
