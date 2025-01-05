@@ -23,7 +23,7 @@ author:
   avatar           : "https://jiahe-liu.github.io/images/aPhotoOfMe.png"
   name             : "Jiahe Liu"
   pronouns         : # example: "she/her"  
-  bio              : "CS PhD student at China University of Petroleum, Beijing"
+  bio              : "CS graduate student at China University of Petroleum, Beijing"
   location         : "Beijing, China"
   uri              : # URL
   email            : "liujiahe511@gmail.com"
@@ -37,7 +37,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

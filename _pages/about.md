@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a CS PhD student at [China University of Petroleum, Beijing](https://www.cup.edu.cn/), advised by Dr. [Dandan Zhu](https://www.cup.edu.cn/ai/szdw/fjs1/170335.htm).
+I am a graduate student in computer science at [China University of Petroleum, Beijing](https://www.cup.edu.cn/cupai/index.htm), focusing on AI, machine learning, and computer vision. I completed my undergraduate studies at the same university, where I developed a strong foundation in programming and algorithms, winning national competitions. My research includes improving pose-guided image generation, enhancing tactile sensing using Electrical Impedance Tomography, and advancing techniques in computer vision.
+
+I’ve interned at [ByteDance](https://www.bytedance.com/en/), optimizing automated testing processes, and I’m the first author of a paper on visual-language models for background subtraction, accepted at the 2024 IEEE International Conference on Multimedia and Expo (ICME) workshop. During my master's studies, I have been fortunate to work with two advisors: Associate Professor [Dandan Zhu](https://www.cup.edu.cn/cupai/szdw/jsml/856a0903b2ea4e78a1e6001ba846b9d3.htm) from [China University of Petroleum, Beijing](https://www.cup.edu.cn/cupai/index.htm) and Professor [Panos Liatsis](https://www.ku.ac.ae/college-people/panos-liatsis) from [Khalifa University](https://www.ku.ac.ae/department/department-of-computer-science#about).
+
+Currently, I am actively seeking PhD opportunities in computer vision and AI.
 
 Research Interests
 ======
@@ -16,5 +20,4 @@ AI, Computer Vision, Machine Learning, Image Processing, Electrical Impedance To
 Publication
 ======
 [Visual-Language Alignment for Background Subtraction](https://doi.org/10.1109/ICMEW63481.2024.10645430)<br>
-Jiahe Liu; Dandan Zhu; Sajid Javed
-
+Jiahe Liu*; Dandan Zhu; Sajid Javed
