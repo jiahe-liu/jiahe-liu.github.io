@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in computer science at [China University of Petroleum, Beijing](https://www.cup.edu.cn/cupai/index.htm), focusing on AI, machine learning, and computer vision. I completed my undergraduate studies at the same university, where I developed a strong foundation in programming and algorithms, winning national competitions. My research includes improving pose-guided image generation, enhancing tactile sensing using Electrical Impedance Tomography, and advancing techniques in computer vision.
+I am a graduate student in computer science at China University of Petroleum, Beijing. During my master’s studies, I spent a year as an exchange student at [Khalifa University](https://www.ku.ac.ae/department/department-of-computer-science#about) in the United Arab Emirates, working under the guidance of Professor [Panos Liatsis](https://www.ku.ac.ae/college-people/panos-liatsis) from [Khalifa University](https://www.ku.ac.ae/department/department-of-computer-science#about) and Associate Professor [Dandan Zhu](https://www.cup.edu.cn/cupai/szdw/jsml/856a0903b2ea4e78a1e6001ba846b9d3.htm) from [China University of Petroleum, Beijing](https://www.cup.edu.cn/cupai/index.htm).
 
-I contributed to a paper on visual-language models for background subtraction, which was accepted at the 2024 IEEE International Conference on Multimedia and Expo (ICME) workshop. During my master’s studies, I spent a year as an exchange student at Khalifa University in the UAE, where I worked on tactile sensing using Electrical Impedance Tomography, focusing on reconstructing tactile data through techniques inspired by computer vision and signal processing. I had the privilege of being advised by Associate Professor [Dandan Zhu](https://www.cup.edu.cn/cupai/szdw/jsml/856a0903b2ea4e78a1e6001ba846b9d3.htm) from [China University of Petroleum, Beijing](https://www.cup.edu.cn/cupai/index.htm) and Professor [Panos Liatsis](https://www.ku.ac.ae/college-people/panos-liatsis) from [Khalifa University](https://www.ku.ac.ae/department/department-of-computer-science#about).
+My research experience includes improving pose-guided image generation, enhancing tactile sensing using Electrical Impedance Tomography, and applying computer vision and signal processing techniques to improve tactile data reconstruction. As the first author, I contributed to a paper on visual-language models for background subtraction, which was accepted at the 2024 IEEE International Conference on Multimedia and Expo (ICME) workshop.
 
-Previously, I interned at [ByteDance](https://www.bytedance.com/en/), where I optimized automated testing processes and improved system efficiency.
+In addition, I interned at [ByteDance](https://www.bytedance.com/en/) in Beijing for a year, where I worked on optimizing automated testing processes and improving system efficiency.
 
-Currently, I am actively seeking PhD opportunities in computer vision and AI.
+In addition to my research and technical experience, I am proficient in playing the [Pipa](https://en.wikipedia.org/wiki/Pipa), a traditional Chinese instrument, with over ten years of performance experience.
+
+<span style="color: red;">Currently, I am actively seeking PhD opportunities in artificial intelligence, computer vision, and machine learning.</span>
 
 Research Interests
 ======
