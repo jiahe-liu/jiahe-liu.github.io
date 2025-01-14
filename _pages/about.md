@@ -13,7 +13,7 @@ My research experience includes improving pose-guided image generation, enhancin
 
 In addition, I interned at [ByteDance](https://www.bytedance.com/en/) in Beijing for a year, where I worked on optimizing automated testing processes and improving system efficiency.
 
-In addition to my research and technical experience, I am proficient in playing the [Pipa](https://en.wikipedia.org/wiki/Pipa), a traditional Chinese instrument, with over ten years of performance experience.
+Beyond my research and technical experience, I am also proficient in playing the [Pipa](https://en.wikipedia.org/wiki/Pipa), a traditional Chinese instrument, with over ten years of performance experience.
 
 <span style="color: red;">Currently, I am actively seeking PhD opportunities in artificial intelligence, computer vision, and machine learning.</span>
 
