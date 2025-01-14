@@ -11,7 +11,7 @@ I am a graduate student in computer science at [China University of Petroleum, B
 
 My research experience includes improving pose-guided image generation, enhancing tactile sensing using Electrical Impedance Tomography, and applying computer vision and signal processing techniques to improve tactile data reconstruction. As the first author, I contributed to a [paper](https://ieeexplore.ieee.org/document/10645430) on visual-language models for background subtraction, which was accepted at the 2024 IEEE International Conference on Multimedia and Expo (ICME) workshop.
 
-In addition, I interned at [ByteDance](https://www.bytedance.com/en/) in Beijing for a year, where I worked on optimizing automated testing processes and improving system efficiency.
+In addition, I interned at [ByteDance](https://www.bytedance.com/en/) in Beijing for one and a half years, where I worked on optimizing automated testing processes and improving system efficiency.
 
 Beyond my research and technical experience, I am also proficient in playing the [Pipa](https://en.wikipedia.org/wiki/Pipa), a traditional Chinese instrument, with over ten years of performance experience.
 
