@@ -24,6 +24,5 @@ AI, Computer Vision, Machine Learning, Image Processing, Electrical Impedance To
 Publication
 ======
 [Visual-Language Alignment for Background Subtraction](https://ieeexplore.ieee.org/document/10645430)<br>
-**Jiahe Liu**; Dandan Zhu; Sajid Javed
-
+**Jiahe Liu**; Dandan Zhu; Sajid Javed<br>
 IEEE International Conference on Multimedia and Expo (ICME) workshop, 2024
