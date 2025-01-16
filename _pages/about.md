@@ -25,4 +25,5 @@ Publication
 ======
 [Visual-Language Alignment for Background Subtraction](https://ieeexplore.ieee.org/document/10645430)<br>
 **Jiahe Liu**; Dandan Zhu; Sajid Javed
+
 IEEE International Conference on Multimedia and Expo (ICME) workshop, 2024
