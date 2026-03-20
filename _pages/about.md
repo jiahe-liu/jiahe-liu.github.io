@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify;">
+<div style="text-align: justify;" markdown="1">
 
 I recently completed my Master’s degree in Computer Science at [China University of Petroleum, Beijing](https://www.cup.edu.cn/cupai/index.htm). During my master’s studies, I spent a year as an exchange student at [Khalifa University](https://www.ku.ac.ae/department/department-of-computer-science#about) in the United Arab Emirates. My graduate supervisors are Prof. [Panos Liatsis](https://www.ku.ac.ae/college-people/panos-liatsis) from [Khalifa University](https://www.ku.ac.ae/department/department-of-computer-science#about) and Prof. [Dandan Zhu](https://www.cup.edu.cn/cupai/szdw/jsml/856a0903b2ea4e78a1e6001ba846b9d3.htm) from [China University of Petroleum, Beijing](https://www.cup.edu.cn/cupai/index.htm). Currently, I am a Research Assistant at [Peking University](https://english.pku.edu.cn/) working with Prof. [Zhouhui Lian](https://www.wict.pku.edu.cn/zlian/) on computer vision–based font generation.
 
