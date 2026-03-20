@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align: justify;">
+
 I recently completed my Master’s degree in Computer Science at [China University of Petroleum, Beijing](https://www.cup.edu.cn/cupai/index.htm). During my master’s studies, I spent a year as an exchange student at [Khalifa University](https://www.ku.ac.ae/department/department-of-computer-science#about) in the United Arab Emirates. My graduate supervisors are Prof. [Panos Liatsis](https://www.ku.ac.ae/college-people/panos-liatsis) from [Khalifa University](https://www.ku.ac.ae/department/department-of-computer-science#about) and Prof. [Dandan Zhu](https://www.cup.edu.cn/cupai/szdw/jsml/856a0903b2ea4e78a1e6001ba846b9d3.htm) from [China University of Petroleum, Beijing](https://www.cup.edu.cn/cupai/index.htm). Currently, I am a Research Assistant at [Peking University](https://english.pku.edu.cn/) working with Prof. [Zhouhui Lian](https://www.wict.pku.edu.cn/zlian/) on computer vision–based font generation.
 
 My research experience includes diffusion-based font generation, improving pose-guided image generation, enhancing tactile sensing with Electrical Impedance Tomography, and integrating multi-modal visual-language models for background subtraction. As the first author, I published a [paper](https://ieeexplore.ieee.org/document/10645430) on visual-language models for background subtraction, which was accepted at the 2024 IEEE International Conference on Multimedia and Expo (ICME) workshop.
@@ -16,6 +18,8 @@ In addition, I interned at [ByteDance](https://www.bytedance.com/en/) in Beijing
 Beyond my research and technical experience, I am also proficient in playing the [Pipa](https://en.wikipedia.org/wiki/Pipa), a traditional Chinese instrument, with over ten years of performance experience.
 
 <span style="color: red;">Currently, I am actively seeking PhD opportunities in artificial intelligence, computer vision, and machine learning.</span>
+
+</div>
 
 Research Interests
 ======
