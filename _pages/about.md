@@ -9,24 +9,27 @@ redirect_from:
 
 <div style="text-align: justify;" markdown="1">
 
-I recently completed my Master’s degree in Computer Science at [China University of Petroleum, Beijing](https://www.cup.edu.cn/cupai/index.htm). During my master’s studies, I spent a year as an exchange student at [Khalifa University](https://www.ku.ac.ae/department/department-of-computer-science#about) in the United Arab Emirates. My graduate supervisors are Prof. [Panos Liatsis](https://www.ku.ac.ae/college-people/panos-liatsis) from [Khalifa University](https://www.ku.ac.ae/department/department-of-computer-science#about) and Prof. [Dandan Zhu](https://www.cup.edu.cn/cupai/szdw/jsml/856a0903b2ea4e78a1e6001ba846b9d3.htm) from [China University of Petroleum, Beijing](https://www.cup.edu.cn/cupai/index.htm). Currently, I am a Research Assistant at [Peking University](https://english.pku.edu.cn/) working with Prof. [Zhouhui Lian](https://www.wict.pku.edu.cn/zlian/) on computer vision–based font generation.
+I am a first-year Ph.D. student in Computer Science at [Indiana University Bloomington](https://bloomington.iu.edu/), advised by Prof. Michelle Zhao in the [Reliable Interactive Autonomy (RIA) Lab](https://reliable-interactive-autonomy-lab.github.io/). My research lies at the intersection of **robot learning, human-robot interaction, and machine learning**, with a particular focus on interactive imitation learning, uncertainty-aware learning, and reliable autonomy. I am interested in how robots can learn efficiently from human feedback, recognize when they are uncertain or likely to fail, and provide useful feedback to human collaborators.
 
-My research experience includes diffusion-based font generation, improving pose-guided image generation, enhancing tactile sensing with Electrical Impedance Tomography, and integrating multi-modal visual-language models for background subtraction. As the first author, I published a [paper](https://ieeexplore.ieee.org/document/10645430) on visual-language models for background subtraction, which was accepted at the 2024 IEEE International Conference on Multimedia and Expo (ICME) workshop.
+Before joining IU, I received my M.Eng. in Computer Science from [China University of Petroleum (Beijing)](https://www.cup.edu.cn/cupai/index.htm). During my master's studies, I spent a year as an exchange student at [Khalifa University](https://www.ku.ac.ae/department/department-of-computer-science#about) in the United Arab Emirates, where I worked with Prof. [Panos Liatsis](https://www.ku.ac.ae/college-people/panos-liatsis), alongside Prof. [Dandan Zhu](https://www.cup.edu.cn/cupai/szdw/jsml/856a0903b2ea4e78a1e6001ba846b9d3.htm) at CUP. I also worked as a Research Assistant at [Peking University](https://english.pku.edu.cn/) with Prof. [Zhouhui Lian](https://www.wict.pku.edu.cn/zlian/) on diffusion-based font generation.
 
-In addition, I interned at [ByteDance](https://www.bytedance.com/en/) in Beijing for one and a half years, where I worked on optimizing automated testing processes and improving system efficiency.
+My broader research experience spans robot learning, computer vision, generative models, Electrical Impedance Tomography, and vision-language modeling. I also interned at [ByteDance](https://www.bytedance.com/en/) in Beijing, where I worked on automated testing and engineering efficiency.
 
-Beyond my research and technical experience, I am also proficient in playing the [Pipa](https://en.wikipedia.org/wiki/Pipa), a traditional Chinese instrument, with over ten years of performance experience.
-
-<span style="color: red;">Currently, I am actively seeking PhD opportunities in artificial intelligence, computer vision, and machine learning.</span>
+Beyond research, I have played the [Pipa](https://en.wikipedia.org/wiki/Pipa), a traditional Chinese instrument, for over ten years.
 
 </div>
 
 Research Interests
 ======
-AI, Computer Vision, Machine Learning, Image Processing, Electrical Impedance Tomography
+Human-Robot Interaction, Robot Learning, Interactive Imitation Learning, Uncertainty Quantification, Reliable Autonomy, Machine Learning
 
-Publication
+Publications
 ======
-[Visual-Language Alignment for Background Subtraction](https://ieeexplore.ieee.org/document/10645430)<br>
+
+[**Show Me What You See: Analyzing Visuomotor Policy Attention for Human-Facing Feedback in Interactive Robot Learning**](https://openreview.net/forum?id=8dr3CGNWf7)<br>
+**Jiahe Liu**; Michelle D. Zhao<br>
+*Rethinking Uncertainty for Modern Robotics Paradigms Workshop, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2026
+
+[**Visual-Language Alignment for Background Subtraction**](https://ieeexplore.ieee.org/document/10645430)<br>
 **Jiahe Liu**; Dandan Zhu; Sajid Javed<br>
-IEEE International Conference on Multimedia and Expo (ICME) workshop, 2024
+*IEEE International Conference on Multimedia and Expo (ICME) Workshop*, 2024
