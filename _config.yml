@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jiahe Liu @ CUP"
+title                    : "Jiahe Liu @ IU"
 title_separator          : "-"
-description              : &description "personal description"
+description              : &description "Jiahe Liu - Ph.D. student in Computer Science at Indiana University Bloomington"
 url                      : https://jiahe-liu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiahe-liu.github.io"
@@ -24,10 +24,10 @@ author:
   name             : "Jiahe Liu"
   pronouns         : # example: "she/her"  
   bio      : |
-    Research Assistant at Peking University.
-    M.Eng. in Computer Science,
-    China University of Petroleum (Beijing).
-  location         : "Beijing, China"
+    Ph.D. Student in Computer Science,
+    Indiana University Bloomington.
+    Reliable Interactive Autonomy Lab.
+  location         : "Bloomington, IN"
   uri              : # URL
   email            : "liujiahe511@gmail.com"
 
@@ -309,13 +309,9 @@ whitelist:
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  - Jekyll Archives plugin built with Liquid ~> type: jekyll-archives
 #  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
+#  - Archive page should exist at path when using Liquid method
 category_archive:
   type: liquid
   path: /categories/
@@ -336,7 +332,6 @@ tag_archive:
 
 
 # HTML Compression
-# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
