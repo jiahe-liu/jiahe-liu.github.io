@@ -13,7 +13,7 @@ I am a first-year Ph.D. student in Computer Science at [Indiana University Bloom
 
 Before joining Indiana University Bloomington, I received my M.Eng. in Computer Science from [China University of Petroleum (Beijing)](https://www.cup.edu.cn/cupai/index.htm). During my master's studies, I spent a year as an exchange student at [Khalifa University](https://www.ku.ac.ae/department/department-of-computer-science#about) in the United Arab Emirates, where I worked with Prof. [Panos Liatsis](https://www.ku.ac.ae/college-people/panos-liatsis), alongside Prof. [Dandan Zhu](https://www.cup.edu.cn/cupai/szdw/jsml/856a0903b2ea4e78a1e6001ba846b9d3.htm) at China University of Petroleum (Beijing). I also conducted research at [Peking University](https://english.pku.edu.cn/) with Prof. [Zhibo Pang](https://pku-pi-lab.github.io/#professor) on embodied AI and with Prof. [Zhouhui Lian](https://www.wict.pku.edu.cn/zlian/) on diffusion-based font generation.
 
-My broader research experience spans robot learning, computer vision, generative models, Electrical Impedance Tomography, and vision-language modeling. I also interned at [ByteDance](https://www.bytedance.com/en/) in Beijing, where I worked on automated testing and engineering efficiency.
+My broader research experience spans robot learning, computer vision, generative models, and vision-language modeling. I also interned at [ByteDance](https://www.bytedance.com/en/) in Beijing, where I worked on automated testing and engineering efficiency.
 
 Beyond research, I have played the [Pipa](https://en.wikipedia.org/wiki/Pipa), a traditional Chinese instrument, for over ten years.
 
