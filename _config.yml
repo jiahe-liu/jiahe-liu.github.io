@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jiahe Liu @ IU"
+title                    : "Jiahe Liu @ Indiana University Bloomington"
 title_separator          : "-"
 description              : &description "Jiahe Liu - Ph.D. student in Computer Science at Indiana University Bloomington"
 url                      : https://jiahe-liu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
